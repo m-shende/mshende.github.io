@@ -1,5 +1,3 @@
-# Minal Shende's Portfolio
-
 ## About Me
 
 Hello! I'm **Minal Shende**, a passionate and experienced **Full Stack Developer** with over **9 years** of hands-on experience in building responsive web applications. I specialize in creating user-friendly, functional, and scalable solutions that meet the needs of both clients and end-users.
@@ -50,7 +48,8 @@ Here’s a glimpse of my recent work experience:
 
 ### IT Nexus Software Solutions (Jan 2014 – Dec 2015)
 - **Associate Programmer**
-    - Led a project to develop an information system for **Gondwana University** using **PHP** and **MySQL**, improving processes for students and faculty.
+    - Led a project to develop an **information system** for **Gondwana University** using **PHP** and **MySQL**. The platform streamlined administrative processes, improving data management and accessibility for students and faculty.
+    - Collaborated with the team to create a robust, user-friendly platform that met the university's needs.
 
 ## My Skill Set
 
@@ -80,6 +79,14 @@ Here are a few projects I've worked on that showcase my technical abilities:
 ### CloudiaData (SaaS Real Estate Platform)
 - **Overview**: Created a real estate management system that integrates various data sources, providing a unified view for stakeholders. The platform is built with **Symfony** and **React** to ensure high performance and scalability.
 - **Tech Stack**: Symfony, React, MySQL, Docker
+
+### Wanna-Eat (Real-time Ordering System)
+- **Overview**: Developed a **Laravel**-based system to manage restaurant menus, orders, and customer interactions. I built custom **API endpoints** to allow for real-time menu updates, order placement, and status tracking.
+- **Tech Stack**: Laravel, MySQL, JavaScript
+
+### Contract Corner (Digital Contract Management)
+- **Overview**: Created a custom **Laravel**-based platform that enables clients to create, sign, and manage contracts digitally. I integrated the **SparkPost API** to optimize email delivery and engagement, improving overall customer satisfaction.
+- **Tech Stack**: Laravel, SparkPost API, MySQL, JavaScript
 
 ### School of Scholars Website
 - **Overview**: Developed a custom WordPress site for a school, including SEO optimization and responsive design. I also created custom plugins to improve the site's functionality and user engagement.
